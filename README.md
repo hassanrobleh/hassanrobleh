@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1>Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Hassan ROBLEH</h1>
 
 <!--
