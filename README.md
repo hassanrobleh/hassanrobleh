@@ -1,5 +1,8 @@
 <h1>Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Hassan ROBLEH</h1>
 
+[![Twitter Badge](https://img.shields.io/badge/-@HAliRobleh-1ca0f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HAliRobleh)](https://twitter.com/HAliRobleh) [![Linkedin Badge](https://img.shields.io/badge/-hassan-ali-robleh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-ali-robleh/) 
+
+
 
 **hassanrobleh/hassanrobleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
